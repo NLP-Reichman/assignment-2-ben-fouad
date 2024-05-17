@@ -8,20 +8,20 @@
     "train_data_length": 9521
   },
   "test_generate_vocabs": {
-    "vocab_size": 19153,
+    "vocab_size": 19873,
     "num_tags": 18
   },
   "test_hmm": {
-    "precision": 0.76,
-    "recall": 0.71,
-    "f1": 0.71
+    "precision": 0.75,
+    "recall": 0.69,
+    "f1": 0.7
   },
   "test_embeddings_model": {
-    "precision": 0.81,
-    "recall": 0.79,
-    "f1": 0.79
+    "precision": 0.79,
+    "recall": 0.78,
+    "f1": 0.78
   },
   "test_nltk_tagger": {
-    "accuracy": 0.87
+    "accuracy": 0.86
   }
 }
